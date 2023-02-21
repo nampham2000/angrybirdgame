@@ -1,0 +1,6063 @@
+fileFormatVersion: 2
+guid: a7c88e375c0dc464fa5e35fc4a6fc669
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 919
+        width: 277
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c30066132c3f14184ce456a2480fe3
+      internalID: -1552291264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 930
+        width: 225
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77bce988d5802c4fb127bfcdab890ac
+      internalID: 659661160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_2
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 796
+        width: 38
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c41cf549f8df34b89d04621203abac
+      internalID: 1199872516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 939
+        width: 179
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948926a3a86bb4546ad9255bbf8c97ec
+      internalID: 861674986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 942
+        width: 161
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5788ab41ffd0934a9e86a9f0f567031
+      internalID: 1222359305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_5
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 878
+        width: 92
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7713b379188524dad1c9b5003332fe
+      internalID: -259976934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 900
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df26bf16dd674b44f888d4ee576ec607
+      internalID: -102542070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 734
+        width: 32
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c07ef0a675db14a9b0a7086fb9b1a1
+      internalID: -837077388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 770
+        width: 51
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816952c1cd24d794eb3ec9c2f1a0ea4f
+      internalID: -1707483075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 787
+        width: 5
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16824791da5c63f469f35e6f7972cdf2
+      internalID: 1201158089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 731
+        width: 87
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fec1290484b5ed49a477351c1bdda78
+      internalID: 873599695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_11
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 878
+        width: 110
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bf586ab1f8e0b439b6ca600d1a3858
+      internalID: 2079079140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_12
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 905
+        width: 151
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c525419ca21c25a41ac7ab8778413731
+      internalID: 820445348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_13
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 888
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f90fa4c21dd774896139ac76b961b3
+      internalID: 1292474978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_14
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 877
+        width: 160
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582d933176d247e4491c29099cad4c5a
+      internalID: -948034053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 730
+        width: 165
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285115a6f63e2d84aab2a02fcb98f479
+      internalID: -2124589661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 845
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b043631fb1a7149428886a605590bf0e
+      internalID: 1794734235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_17
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 833
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e03170d359d844f9afebadf0768745
+      internalID: -1572045006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_18
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 799
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c86ac827fc8fee4e9292671f26f62e2
+      internalID: -1823767994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_19
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 859
+        width: 149
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9fc88f3e308ea4dba82944af4db0eb
+      internalID: -20385349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_20
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 851
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1699ae1460db2438dc8cc4aaedc910
+      internalID: 1541927902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_21
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 859
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e060097c5bf3f74680290a94828074d
+      internalID: 1050645533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_22
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 759
+        width: 125
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdd932dce3792b44badf2d093123be4
+      internalID: -1952919496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_23
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 804
+        width: 14
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7558e41a756243c469ceac8f56ff9f82
+      internalID: 1694698295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 807
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0196b5d359e389045b7e97ff904c5e54
+      internalID: -1518805971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_25
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 732
+        width: 115
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b882dfe51cbfb4d9432b698fdc4cfe
+      internalID: -1964129452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_26
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 793
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcb55a5b27dafc4388651db742762aa
+      internalID: 2084973637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_27
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 784
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162f8197b6935c3449842ff69645cb9a
+      internalID: 2009609339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_28
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 798
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1b6d8bef16eeb47b32d932b28d9f01
+      internalID: -64811045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_29
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 776
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70220c384440c7844a84685972eb5646
+      internalID: 1215006060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_30
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 783
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e2ccbbb9a98104fa3c6db2c40f5288
+      internalID: -1222674268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_31
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 670
+        width: 43
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117e4130cab9a5c4c8c6d1bc424b0858
+      internalID: -275115303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_32
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 755
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0db496f2c0b47548a7052527d021901
+      internalID: -1792591093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_33
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 756
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8385630755fcb4e97e6d9963d9f6c3
+      internalID: 68833448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_34
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 637
+        width: 10
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bd280293abda44cb68e08e4a228273
+      internalID: 14418452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_35
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 743
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1cdc227b9730b4ba603776dca47aff
+      internalID: -1998896622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_36
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 738
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d56f9b1bec45340ae07f10a865cba3
+      internalID: 1223719274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_37
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 752
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f720bed9c86607843b36980bf6b3ba07
+      internalID: 485059887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_38
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 738
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ab1ac025270a04282c0ff5207b12c0
+      internalID: 1731563529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_39
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 634
+        width: 79
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267600f9c672d954ea7735832536fc21
+      internalID: -25378014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_40
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 659
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246bded65ca344d41b4160b918f823f6
+      internalID: -904432837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_41
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 610
+        width: 26
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d219a11e1d8ad4abf0fb3cbb785c95
+      internalID: -12404496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_42
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 717
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8073b045e907e40956dfff8a4167f0
+      internalID: -163733791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_43
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 729
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80659eb3c4ceb05468a12d146986b182
+      internalID: -1778844996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_44
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 660
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010fa98e632e02e45ad504c61417e5e2
+      internalID: -666484402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_45
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 617
+        width: 79
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb0bb5b88594f942a39d18d8b9282b8
+      internalID: 1971317875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_46
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 635
+        width: 96
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c92473cf6c9c345978ab2694c188ad
+      internalID: -1996649286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 617
+        width: 115
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65ebb5ba92a7ed4a8dc3871bc93ccaa
+      internalID: 1838579956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_48
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 618
+        width: 35
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095ec5258f567864f972a6cf9399bdb4
+      internalID: -170384238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_49
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 641
+        width: 25
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5840d30ebed49d340a33e4214f8effc7
+      internalID: -95747858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_50
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 682
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9251cc4397007a4e998b2bdd9d494fa
+      internalID: -738409580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_51
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 704
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7021a4a17853d4994b8ed9b29edfe3
+      internalID: -1972262477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_52
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 676
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351f053bb0b5af6498e9c58f5e7f5bbb
+      internalID: -1128661724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_53
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 677
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d534b23a2f269c44b6a081fb61e85af
+      internalID: -936807323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_54
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 689
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421f4e8a6c530d9449fa2327f205558c
+      internalID: 664407625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 639
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c2130b0e391e14a8b3f530f73d6511
+      internalID: -239504768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_56
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 610
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e6a1bc46802f54e8bcca863efd9ae7
+      internalID: 708493601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_57
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 551
+        width: 46
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be010135a99a93d4fa8936388b6ef291
+      internalID: 876901246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 552
+        width: 45
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf29393c035700419191441e89d5264
+      internalID: 103351604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_59
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 660
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bf893542a6e7a41a5d966267c1ea57
+      internalID: -1705783916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 506
+        width: 115
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd403f678fa74c44fb19f7794fc28193
+      internalID: -634165212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_61
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 606
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c8f082c8415614d8cb6de018234636
+      internalID: 1739659275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_62
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 606
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6128ec4bc27e4bc4da5ea9692672b8bd
+      internalID: 355046937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_63
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 614
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25a4f209215e7b4ba42f5f982e05f76
+      internalID: -668681335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_64
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 614
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fa0b211c70630429b3d1710fd2b5ec
+      internalID: -131295143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_65
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 597
+        width: 113
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d508d499c8517e47972106f7c8f185a
+      internalID: -941445638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_66
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 558
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bcc1b25f3121949bb45dfe5fce0176
+      internalID: 1536937937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_67
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 520
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c7b5af2e673af4987cbb7caa4d365f
+      internalID: -1457162835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_68
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 535
+        width: 89
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdadc5443007d814da152b3713715715
+      internalID: 1748739527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_69
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 537
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff1aa76a01469b47a0ca5757267fdfb
+      internalID: 1447430390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_70
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 564
+        width: 33
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b052e0d1cb5c1c04683e243729facc0a
+      internalID: 330854095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_71
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 605
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912536a0601225845886915d5132fe2f
+      internalID: 341845615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_72
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 543
+        width: 113
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dca51b94d8bb546a289a54076ac77d
+      internalID: 1004959249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_73
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 589
+        width: 111
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aca81b53060c94181426df577df6a4
+      internalID: 1330586265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_74
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 595
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4a05160267ca84983d671b83cf9d23
+      internalID: 1070871350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_75
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 568
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff55b06b18da35249a8e73a36c0cb65a
+      internalID: 2128366785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_76
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 554
+        width: 99
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0566c51764e0bb48a2b5ef6b3047e4a
+      internalID: -1546400515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_77
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 551
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e94a0ac286b6b49a94f29e3f34cc94
+      internalID: -2005507934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_78
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 516
+        width: 99
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cfa214398e66540986eae6c0e61119
+      internalID: 1434521751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_79
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 565
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32283c29ef2e7845aec2936ef5c46fd
+      internalID: 520264321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_80
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 459
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c061066a9fb2d764c8cb672758f7aedf
+      internalID: 919183180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_81
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 502
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ad5056079ce194c8532a0aa24d1699
+      internalID: -703957634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_82
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 499
+        width: 99
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc1b72e901864846a1209df0bc534e7
+      internalID: -1377262627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 454
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd595be96ef87c41b9d6669d2ccdb6e
+      internalID: -174225016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_84
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 519
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91623d6899ff2640a05ef36b2d12da4
+      internalID: 400173378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_85
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 511
+        width: 95
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e14733db15844478aab904c31dde64
+      internalID: -1419057162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_86
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 523
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4bffa9650ae3c4bbf6b98cba3a4332
+      internalID: -803290299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_87
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 439
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e30a4b23db4de44182cf2ec1c679b43
+      internalID: 1562406675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_88
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 441
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6387e0740604ba7488f064327020587d
+      internalID: 510371185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_89
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 471
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fddc2b1fabfc3488c9878c9ad9a31a
+      internalID: -1328158877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 408
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdcd4e0781f13d4fa0492be74957f03
+      internalID: -617274491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_91
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 472
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfb6907da8e9da4ba22cbdcca1b5adb
+      internalID: -1638686907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_92
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 404
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b79ec1c148fa5249a8dfa49c3b421b1
+      internalID: -896155912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_93
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 452
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0cb00c7286fea41b8b6c19e4a1920b
+      internalID: -404329815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_94
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 453
+        width: 95
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949f06cc2ec4ee54a9a3517a6b3dc280
+      internalID: -537082613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_95
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 419
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac4a5a698a2d6c4fb279e42a2ccb412
+      internalID: 2002810657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_96
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 465
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fb24e467f0bda4786d9e62883f92f8
+      internalID: -1129710930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_97
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 427
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebd5d44306f5974583d96ef186f1d80
+      internalID: -1456773923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_98
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 459
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f670a89425792469c4a1ca92fcca40
+      internalID: 1642656772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_99
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 427
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebae77d59892dd541b406e0f4ea9e58c
+      internalID: 706225870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_100
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 376
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63dd30d4aac78b45baed9ee2c572630
+      internalID: -1687488300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_101
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 396
+        width: 15
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c71d5cb75cd5e4fb5c5bf20f214be7
+      internalID: -227109144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_102
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 362
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d210855fde2e14182c192bc2c52ee1
+      internalID: 222496962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_103
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 405
+        width: 12
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036486435480a98478d0b7a28d2cc9a4
+      internalID: -890863642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_104
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 405
+        width: 12
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fad6b5522d2c0b468ca31745619cf0e
+      internalID: -2036446958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_105
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 359
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4ed63df4e394040bc6d69e60b67d5c
+      internalID: -2137101394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_106
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 360
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3251990c1b0c97b4a8aa4cfb3bbddeae
+      internalID: -1175904297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_107
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 376
+        width: 86
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc98fa83e0290bf4e940240d3d3ce6a4
+      internalID: -998062876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_108
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 384
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df64645a9850e234685d485aed885bdc
+      internalID: -248113472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_109
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 381
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70406ed658fc884baa978e91515d880
+      internalID: 638279315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_110
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 378
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8a953ea4cfa354cb5c4e4b7521c578
+      internalID: -1802771607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_111
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 373
+        width: 5
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9340c599751a4642a81bd00ae759c1b
+      internalID: -1695061379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_112
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 408
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bf6eecfc0bb914aa67f927940ee607
+      internalID: -1090832622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_113
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 373
+        width: 92
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79002e42b7da6454092973bf2621d447
+      internalID: -1707305502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_114
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 346
+        width: 95
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564ca1484fb80ee43b64c911aed64145
+      internalID: 2005141008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_115
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 382
+        width: 91
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1994d935d16184e47b3dee2691ea183f
+      internalID: -1925254766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_116
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 382
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2428235da6cd14f8442607cdae8a9b
+      internalID: 2018668660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_117
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 378
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6550e5d89453a0341a6f5e4a78a1d06a
+      internalID: 63779077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_118
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 376
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27b28f2aceb67d4e8e6c40e223640e5
+      internalID: 1787665880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_119
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 290
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1be672a7ce8ee409b47606b497ef48
+      internalID: -367291099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_120
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 371
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c722284f403ee4fb9ef41683907c58
+      internalID: 1686955114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_121
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 292
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619073d3e6f890148b5688efae230e8f
+      internalID: 402931330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_122
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 302
+        width: 15
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8273b09b96802db43855e7441ffd0ca1
+      internalID: 1901474023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_123
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 295
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3c2973773eeaf4fa6d920c635734ae
+      internalID: 1749525742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_124
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 298
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5263816b1b4d6c945a5c9371f6367ebe
+      internalID: -933474978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_125
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 298
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caf55f44fc682c46acb06d99f49ab39
+      internalID: -475714376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_126
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 286
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5435f79f327e24abe59471e72a8dd7
+      internalID: 541201834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_127
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 346
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf08fb8516e479418b7c5100070e25e
+      internalID: -27150950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_128
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 346
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7805319b42d6249b62dec3b1fb8abd
+      internalID: 856933429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_129
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 346
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4a98e93b02e6e489cdbc5566d55218
+      internalID: -258692595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_130
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 275
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6696c286b381fa044b72b16874c569e7
+      internalID: -315548378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_131
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 275
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68324beacb927e048ada4b1b43365929
+      internalID: -683184434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_132
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 276
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7939b686fb0db8342896bbb6fabf6c17
+      internalID: 1175217121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_133
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 298
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b259f82a8e770254db916993c174ce81
+      internalID: -777623694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_134
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 325
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2191e72d9285d734a9caf8ddb5dfed92
+      internalID: -161982718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_135
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 296
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86eb9224483b3844b850648a336b05f
+      internalID: -995418010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_136
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 313
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41c286924c84ba4c8ffca24444c5888
+      internalID: 1569152421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_137
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 254
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a92f402a153174198689e0442519fc
+      internalID: 556093169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_138
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 265
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156013e0ee958de40918c3807a217289
+      internalID: 581091132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_139
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 298
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b35bfb3da9b51949a3970d9487f05c3
+      internalID: -1593563730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_140
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 286
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ad78bc375b5244d8cf382d92226b86
+      internalID: 150797439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_141
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 289
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530dacdc966d47e4cb8fe9c730899d0c
+      internalID: 2122673143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_142
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 207
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019bd05a1ef678343831f753f402343c
+      internalID: -1359474391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_143
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 275
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d2bd0ed75a29b458a27231235fc453
+      internalID: -1491673281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_144
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 275
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3a329a6dcff7d4a89a372de78c3233
+      internalID: 845320445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_145
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 218
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe3558934fce374b83a32e39f2e8e6f
+      internalID: -1666530682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_146
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 248
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5450e75d95179b44ab5424dc6892d052
+      internalID: 1254082908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_147
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 220
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2676deba75ead3a498dd6a2f235fbe2a
+      internalID: -835051534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_148
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 221
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdbd3d0700adb547bdb41fdf9d3da68
+      internalID: -683877620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_149
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 224
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9ab7e1d0aa3f64b9ae69b435ea3119
+      internalID: 1456605844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_150
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 273
+        width: 72
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe05e38ca639c94a8623150e0538b57
+      internalID: 2137255386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_151
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 223
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe051943265fb44883185b78214ca45
+      internalID: 1183774791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_152
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 216
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d221accf42b14494b93b97ef994e6ae1
+      internalID: 387440499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_153
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 171
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ece0d9dc08422f4b941787f5a6eccba
+      internalID: -1517476348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 222
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b111637fdfe7b2b4e8cf590aec703ac3
+      internalID: 1619511146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_155
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 227
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84f489317566464bae0d27adae04aa2
+      internalID: 683821764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_156
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 218
+        width: 81
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2a1e8be34664144821ce37bc7d3c72
+      internalID: -1797322617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_157
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 197
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dea5e611d2add459f921b2afd09c59
+      internalID: 34944500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_158
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 251
+        width: 73
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2546d143059b3104db5fb7c49bd7be27
+      internalID: -1835564422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_159
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 251
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d368c80ea8e87f41a70192534b870b5
+      internalID: 539503442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_160
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 202
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839826f5a75fb3c4b98cd31be52888a1
+      internalID: -1593455373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_161
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 200
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89036b354d434a4d8e1eb6a64209e64
+      internalID: -180652421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_162
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 177
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce10db74d5228947879d0bb6b4e84be
+      internalID: -1982216967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_163
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 177
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e69497354ce7a742a651678ef7246c0
+      internalID: 1574562150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_164
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 218
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f178d871f504c2a40b8fa979cb2932b4
+      internalID: 1038655936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_165
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 162
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c1035e38c895e4e824f2dc7fbaa1d1
+      internalID: 414852900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_166
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 175
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f2bdad052e80b4ba24b60b08a4e4b6
+      internalID: -910481288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_167
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 158
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede0b74296bde1641a4125ba97460ffe
+      internalID: -1383371997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_168
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 165
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5213e207b45594f4eae5c1ccddc12334
+      internalID: 1474259905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_169
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 135
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140297ef3912d8944a20b606ae9e6ce6
+      internalID: 2119314960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_170
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 139
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175e02b178a20834a91bf505822d4769
+      internalID: 1233796320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_171
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 197
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04f46f6ef4763b4c82429449190c7cc
+      internalID: 331350024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_172
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 141
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd65d2bd5717737459688487a04b35a5
+      internalID: -515260287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_173
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 161
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2256454adb0174786851e9613dd844
+      internalID: -566948518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_174
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 161
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c66cdc4c323c340a51189096c49b8a
+      internalID: -100364394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_175
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 162
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f69160c774c9c4d809253d0f247e1b
+      internalID: -1519755947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_176
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 187
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6eb3462ce0b7844bf7d27327c02fff
+      internalID: 815574610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_177
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 150
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbaf8bd1735ba7644a303593e1d8bdaf
+      internalID: 632065102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_178
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 139
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddc4c75b898fad4bad2aba8643f2406
+      internalID: 613713288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_179
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 178
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cb20e42d9a9784193ae8d216663139
+      internalID: 1431177799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_180
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 180
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee89b581427308429ef108a67b05a67
+      internalID: 1658636886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_181
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 159
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d43dfc56cb26de488066182c02d3c81
+      internalID: 1828340545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_182
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 135
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9495f84bb646c545b591b3ecae68be0
+      internalID: 834360975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_183
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 135
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439b21a4b2968ff459985248e64d38e7
+      internalID: -2108272336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_184
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 136
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba5dd84dd8330e47897ab114bc7ce54
+      internalID: -134410900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_185
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 140
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f3921fb5ade664697b1e5a68d0a9b0
+      internalID: -944670724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_186
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 133
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601119c6e680e164ea55f878a073eb20
+      internalID: -1205057348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_187
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 144
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9620003da21c95e489f0c264ceefd002
+      internalID: 1732355459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_188
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 99
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501b5752084a54749abec8e75f0b5548
+      internalID: 1385860833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_189
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 99
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5177bc66459a703488e6b88c40da891b
+      internalID: 115655665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_190
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 102
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccd890fa4a070e439c5b6a0412f0f6e
+      internalID: -1833537348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_191
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 106
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603b410a7938f78499aa9701abfcee72
+      internalID: 1847856086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_192
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 136
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf7737d34ff9c4188ea91d73163896
+      internalID: -1166217619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_193
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 138
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db82085a4ef61040a8531f237e3ca54
+      internalID: 325026996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_194
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 117
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68034e63366a06b4ebea5fbc1ef370fe
+      internalID: 1465372138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_195
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 106
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab88fbc5b0ace84dbfbbd7c99db19ba
+      internalID: -1353603822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_196
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 91
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0f4ce4a14ffc848a3c42f038c0cb30
+      internalID: 684272892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_197
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 118
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cd78014f6a753498db6446892e5429
+      internalID: 307100792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_198
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 61
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e050217ce017348adb988e2bae3684
+      internalID: -447972701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_199
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 68
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00c2208d4db41a4ea840bc873867fc3
+      internalID: -1354806806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_200
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 133
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253363a07267f6a4c9afe9b5af9cac19
+      internalID: 275154763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_201
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 109
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a493bd0679b99254cb8b6a2750de76cc
+      internalID: 836700428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_202
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 54
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa0b8ed748ed0d4eb3d8e495d356dcc
+      internalID: -1883895092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_203
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 119
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9966b26cdbe154d40a126e01518d7da6
+      internalID: -106107187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_204
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 61
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db728afe0f7c5044b97b28f21736061
+      internalID: 1981435590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_205
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 68
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ced5b93199c424d9c1ae2dcf5306a7
+      internalID: 1838476718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_206
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 71
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb127e11e412f084ab6ff9fcd9ddc9d5
+      internalID: -586380006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_207
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 91
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b748978ecab7b2488719be564ee3ae5
+      internalID: 944196388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_208
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 87
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a338dfcd386d24c9639e1162e64d58
+      internalID: -1364096448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_209
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 106
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc19436fff3d8a4a9827ba4bca9b47e
+      internalID: -542705085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_210
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 94
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e16b9e9f428d8d4da5a7ecb03d090da
+      internalID: -1156025778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_211
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 92
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72aff0b11761c3349a8ba4dc48534c58
+      internalID: 1267490859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_212
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 91
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce4de9225efc7f468646295b7b84463
+      internalID: 2097762146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_213
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 91
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1a79478fe61b74cae4f3073b01c1f9
+      internalID: -1728792613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_214
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 92
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea863700cc70a1b49b0ef23b10095976
+      internalID: -1564481938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_215
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 96
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959b9eddb1c7e95488fc3dee189e533c
+      internalID: -2116706761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_216
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 91
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e559e104c4b068b42bf2757002935b83
+      internalID: -77709872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_217
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 59
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fe125ab57c0c244bb4c43d0fe3acee
+      internalID: -1989929417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_218
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 82
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd0162fb150f634c93a83768aca3e01
+      internalID: -389301377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_219
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 97
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542176ed99cb5ed4f9fc5b7cd927d7bb
+      internalID: 2044169702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_220
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 31
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247e6ec8d9ae31a45b1340bb9f1acf26
+      internalID: 161804463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_221
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 35
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a57b6c071db7847aed331b7215bc20
+      internalID: 1281013718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_222
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 33
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bccf5265dccb3c4cae6805b518f7b57
+      internalID: 1390071863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_223
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 35
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d655ab099a3a77458f05d49206e1e4c
+      internalID: 665159169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_224
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 37
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd9a5cd6d06e64438a8046914fb96b4
+      internalID: 1222809559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_225
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 46
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f642f55d12ee149bc99bcd4ef895a3
+      internalID: 51388659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_226
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 44
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bef642a215dc64181193bf3bd69982
+      internalID: -1560134433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_227
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 40
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c916048bd9d8a4ea7978390773b72e
+      internalID: -984544159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_228
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 82
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882d7a9661db0904d8dbf4f91cfa96e2
+      internalID: -1264764114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_229
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 74
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1b246e27c2fb44bad1b1ceef3a5e29
+      internalID: -2144837864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_230
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 76
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76a2beb0c441f24dbcb33bedc2d28ff
+      internalID: 887102933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_231
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 14
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27f3b17e6fcc064e80751d7f051e7cd
+      internalID: -93207682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_232
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41509d15cc539d41a9879db2ad237ad
+      internalID: 1773488272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_233
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 12
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff25b579a0751546b82cfe543b3111f
+      internalID: -136936477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_234
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 57
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97ddca18eb5c504c90aa50ba6ba6e28
+      internalID: -159994579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_235
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 61
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7984ce7b805a51f4eafdba8821620005
+      internalID: 724568391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_236
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 57
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baab5f629340de47bb513ec5678087c
+      internalID: 1343702127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_237
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 57
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21afb2b1eacd41c44b017a22fc17b080
+      internalID: 1421571599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_238
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 57
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7dc1a04d495d54abbe3a3655edd124
+      internalID: -1338395560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_239
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c4f410021b94547b620e1b0fb45f6a
+      internalID: 817971938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_240
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 33
+        width: 76
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6fbdb9e99da2b4c8bd161754679946
+      internalID: -1640158849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_241
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 17
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99d1bcf8bbdd80419fffd53e3f32ee3
+      internalID: -277462766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_242
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 2
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8d1bd7c1dbd704892d28567d7bf812
+      internalID: 415542720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_243
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 3
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38a8a0e762284940bcab2c7f2f0f4c3
+      internalID: 1573355644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_244
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 29
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2b5d06164de084a8f3188a4c14b51e
+      internalID: 1700049326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_245
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 32
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a9d8a6466fd37468588be3f6a1e83a
+      internalID: 2074274791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_246
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 34
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbe3ce1935ea1244a2bab3faa54c940
+      internalID: -257299736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_247
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 38
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6944de26c94f3845aca8a9c7b94c379
+      internalID: -581347897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_248
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 9
+        width: 76
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb740629855b544c8567c73c4597a97
+      internalID: 859190757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_249
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cad647065f903b478051fb294cbf73a
+      internalID: 703168164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_250
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 4
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7049d45fbb61ecd45aabb6259e1f4df8
+      internalID: 1317804264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_251
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e797c067fc9d949b9ddded04410dd4
+      internalID: -303077983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_252
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9121c10a41eeb734b8c35b0cc6a3a2fe
+      internalID: -391889678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_253
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f88f6f73646b04681c267255d55160
+      internalID: -2141124509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_254
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af29acb173bafc458c50d419122f885
+      internalID: 61816772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_255
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9202b1956b5c724782df48fed6c4b5d
+      internalID: 624577969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_256
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4789b62294a8d72439c678221fae5966
+      internalID: 441551331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_257
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1fc4a584d44884696ba32cac57a726
+      internalID: -1065959214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_258
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 5
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b14a905aa154a84d8092d69312beed9
+      internalID: -176043776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_259
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 5
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e104bae2b09f15429880ff0aa42c19a
+      internalID: -2103779880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_260
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440a30b9b79bb854d84966afe30e804e
+      internalID: -1741793720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_261
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 11
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4eb81229aaf5624b819d37c61ea0c88
+      internalID: 1519943426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_262
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 5
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663a2f413d941d245aad374f30731272
+      internalID: -1230947377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_263
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 6
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdda6fe3739da346b948a0cf6efb627
+      internalID: 797931348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_264
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 11
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f5c9195e1c7e1478f5548b7e89e4df
+      internalID: -1995291633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_265
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 19
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f423e18ee093131419cdb0c2ad7ded41
+      internalID: -431985150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_266
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df99894ea9a51904394c31f26f439a56
+      internalID: -84097134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_267
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5156b5c213e8af40903ade9c37fca86
+      internalID: 2011953272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_268
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656dd3d7420178e47b6cccd73090514f
+      internalID: -223973054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_1_1_269
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d00a87f6fd4352499338a9485b9a561
+      internalID: 2141678638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      INGAME_BLOCKS_1_1_147: -835051534
+      INGAME_BLOCKS_1_1_23: 1694698295
+      INGAME_BLOCKS_1_1_25: -1964129452
+      INGAME_BLOCKS_1_1_127: -27150950
+      INGAME_BLOCKS_1_1_32: -1792591093
+      INGAME_BLOCKS_1_1_172: -515260287
+      INGAME_BLOCKS_1_1_162: -1982216967
+      INGAME_BLOCKS_1_1_186: -1205057348
+      INGAME_BLOCKS_1_1_152: 387440499
+      INGAME_BLOCKS_1_1_131: -683184434
+      INGAME_BLOCKS_1_1_139: -1593563730
+      INGAME_BLOCKS_1_1_86: -803290299
+      INGAME_BLOCKS_1_1_210: -1156025778
+      INGAME_BLOCKS_1_1_193: 325026996
+      INGAME_BLOCKS_1_1_7: -837077388
+      INGAME_BLOCKS_1_1_24: -1518805971
+      INGAME_BLOCKS_1_1_155: 683821764
+      INGAME_BLOCKS_1_1_123: 1749525742
+      INGAME_BLOCKS_1_1_209: -542705085
+      INGAME_BLOCKS_1_1_69: 1447430390
+      INGAME_BLOCKS_1_1_94: -537082613
+      INGAME_BLOCKS_1_1_81: -703957634
+      INGAME_BLOCKS_1_1_118: 1787665880
+      INGAME_BLOCKS_1_1_110: -1802771607
+      INGAME_BLOCKS_1_1_67: -1457162835
+      INGAME_BLOCKS_1_1_8: -1707483075
+      INGAME_BLOCKS_1_1_143: -1491673281
+      INGAME_BLOCKS_1_1_217: -1989929417
+      INGAME_BLOCKS_1_1_26: 2084973637
+      INGAME_BLOCKS_1_1_251: -303077983
+      INGAME_BLOCKS_1_1_18: -1823767994
+      INGAME_BLOCKS_1_1_256: 441551331
+      INGAME_BLOCKS_1_1_76: -1546400515
+      INGAME_BLOCKS_1_1_140: 150797439
+      INGAME_BLOCKS_1_1_28: -64811045
+      INGAME_BLOCKS_1_1_135: -995418010
+      INGAME_BLOCKS_1_1_191: 1847856086
+      INGAME_BLOCKS_1_1_101: -227109144
+      INGAME_BLOCKS_1_1_182: 834360975
+      INGAME_BLOCKS_1_1_169: 2119314960
+      INGAME_BLOCKS_1_1_19: -20385349
+      INGAME_BLOCKS_1_1_10: 873599695
+      INGAME_BLOCKS_1_1_133: -777623694
+      INGAME_BLOCKS_1_1_17: -1572045006
+      INGAME_BLOCKS_1_1_78: 1434521751
+      INGAME_BLOCKS_1_1_61: 1739659275
+      INGAME_BLOCKS_1_1_106: -1175904297
+      INGAME_BLOCKS_1_1_16: 1794734235
+      INGAME_BLOCKS_1_1_222: 1390071863
+      INGAME_BLOCKS_1_1_128: 856933429
+      INGAME_BLOCKS_1_1_132: 1175217121
+      INGAME_BLOCKS_1_1_179: 1431177799
+      INGAME_BLOCKS_1_1_105: -2137101394
+      INGAME_BLOCKS_1_1_227: -984544159
+      INGAME_BLOCKS_1_1_264: -1995291633
+      INGAME_BLOCKS_1_1_59: -1705783916
+      INGAME_BLOCKS_1_1_266: -84097134
+      INGAME_BLOCKS_1_1_117: 63779077
+      INGAME_BLOCKS_1_1_142: -1359474391
+      INGAME_BLOCKS_1_1_56: 708493601
+      INGAME_BLOCKS_1_1_261: 1519943426
+      INGAME_BLOCKS_1_1_150: 2137255386
+      INGAME_BLOCKS_1_1_154: 1619511146
+      INGAME_BLOCKS_1_1_120: 1686955114
+      INGAME_BLOCKS_1_1_229: -2144837864
+      INGAME_BLOCKS_1_1_260: -1741793720
+      INGAME_BLOCKS_1_1_79: 520264321
+      INGAME_BLOCKS_1_1_173: -566948518
+      INGAME_BLOCKS_1_1_27: 2009609339
+      INGAME_BLOCKS_1_1_2: 1199872516
+      INGAME_BLOCKS_1_1_257: -1065959214
+      INGAME_BLOCKS_1_1_39: -25378014
+      INGAME_BLOCKS_1_1_183: -2108272336
+      INGAME_BLOCKS_1_1_207: 944196388
+      INGAME_BLOCKS_1_1_214: -1564481938
+      INGAME_BLOCKS_1_1_149: 1456605844
+      INGAME_BLOCKS_1_1_197: 307100792
+      INGAME_BLOCKS_1_1_237: 1421571599
+      INGAME_BLOCKS_1_1_242: 415542720
+      INGAME_BLOCKS_1_1_13: 1292474978
+      INGAME_BLOCKS_1_1_74: 1070871350
+      INGAME_BLOCKS_1_1_88: 510371185
+      INGAME_BLOCKS_1_1_112: -1090832622
+      INGAME_BLOCKS_1_1_241: -277462766
+      INGAME_BLOCKS_1_1_167: -1383371997
+      INGAME_BLOCKS_1_1_221: 1281013718
+      INGAME_BLOCKS_1_1_269: 2141678638
+      INGAME_BLOCKS_1_1_84: 400173378
+      INGAME_BLOCKS_1_1_231: -93207682
+      INGAME_BLOCKS_1_1_51: -1972262477
+      INGAME_BLOCKS_1_1_178: 613713288
+      INGAME_BLOCKS_1_1_195: -1353603822
+      INGAME_BLOCKS_1_1_113: -1707305502
+      INGAME_BLOCKS_1_1_141: 2122673143
+      INGAME_BLOCKS_1_1_234: -159994579
+      INGAME_BLOCKS_1_1_248: 859190757
+      INGAME_BLOCKS_1_1_125: -475714376
+      INGAME_BLOCKS_1_1_41: -12404496
+      INGAME_BLOCKS_1_1_21: 1050645533
+      INGAME_BLOCKS_1_1_208: -1364096448
+      INGAME_BLOCKS_1_1_228: -1264764114
+      INGAME_BLOCKS_1_1_203: -106107187
+      INGAME_BLOCKS_1_1_124: -933474978
+      INGAME_BLOCKS_1_1_85: -1419057162
+      INGAME_BLOCKS_1_1_42: -163733791
+      INGAME_BLOCKS_1_1_58: 103351604
+      INGAME_BLOCKS_1_1_165: 414852900
+      INGAME_BLOCKS_1_1_93: -404329815
+      INGAME_BLOCKS_1_1_144: 845320445
+      INGAME_BLOCKS_1_1_151: 1183774791
+      INGAME_BLOCKS_1_1_176: 815574610
+      INGAME_BLOCKS_1_1_262: -1230947377
+      INGAME_BLOCKS_1_1_31: -275115303
+      INGAME_BLOCKS_1_1_65: -941445638
+      INGAME_BLOCKS_1_1_201: 836700428
+      INGAME_BLOCKS_1_1_232: 1773488272
+      INGAME_BLOCKS_1_1_66: 1536937937
+      INGAME_BLOCKS_1_1_235: 724568391
+      INGAME_BLOCKS_1_1_49: -95747858
+      INGAME_BLOCKS_1_1_111: -1695061379
+      INGAME_BLOCKS_1_1_119: -367291099
+      INGAME_BLOCKS_1_1_90: -617274491
+      INGAME_BLOCKS_1_1_107: -998062876
+      INGAME_BLOCKS_1_1_5: -259976934
+      INGAME_BLOCKS_1_1_98: 1642656772
+      INGAME_BLOCKS_1_1_253: -2141124509
+      INGAME_BLOCKS_1_1_225: 51388659
+      INGAME_BLOCKS_1_1_239: 817971938
+      INGAME_BLOCKS_1_1_247: -581347897
+      INGAME_BLOCKS_1_1_63: -668681335
+      INGAME_BLOCKS_1_1_268: -223973054
+      INGAME_BLOCKS_1_1_122: 1901474023
+      INGAME_BLOCKS_1_1_104: -2036446958
+      INGAME_BLOCKS_1_1_213: -1728792613
+      INGAME_BLOCKS_1_1_64: -131295143
+      INGAME_BLOCKS_1_1_250: 1317804264
+      INGAME_BLOCKS_1_1_114: 2005141008
+      INGAME_BLOCKS_1_1_121: 402931330
+      INGAME_BLOCKS_1_1_95: 2002810657
+      INGAME_BLOCKS_1_1_189: 115655665
+      INGAME_BLOCKS_1_1_0: -1552291264
+      INGAME_BLOCKS_1_1_168: 1474259905
+      INGAME_BLOCKS_1_1_175: -1519755947
+      INGAME_BLOCKS_1_1_68: 1748739527
+      INGAME_BLOCKS_1_1_60: -634165212
+      INGAME_BLOCKS_1_1_109: 638279315
+      INGAME_BLOCKS_1_1_206: -586380006
+      INGAME_BLOCKS_1_1_180: 1658636886
+      INGAME_BLOCKS_1_1_202: -1883895092
+      INGAME_BLOCKS_1_1_252: -391889678
+      INGAME_BLOCKS_1_1_220: 161804463
+      INGAME_BLOCKS_1_1_181: 1828340545
+      INGAME_BLOCKS_1_1_223: 665159169
+      INGAME_BLOCKS_1_1_57: 876901246
+      INGAME_BLOCKS_1_1_158: -1835564422
+      INGAME_BLOCKS_1_1_82: -1377262627
+      INGAME_BLOCKS_1_1_161: -180652421
+      INGAME_BLOCKS_1_1_263: 797931348
+      INGAME_BLOCKS_1_1_46: -1996649286
+      INGAME_BLOCKS_1_1_15: -2124589661
+      INGAME_BLOCKS_1_1_36: 1223719274
+      INGAME_BLOCKS_1_1_38: 1731563529
+      INGAME_BLOCKS_1_1_54: 664407625
+      INGAME_BLOCKS_1_1_216: -77709872
+      INGAME_BLOCKS_1_1_200: 275154763
+      INGAME_BLOCKS_1_1_34: 14418452
+      INGAME_BLOCKS_1_1_14: -948034053
+      INGAME_BLOCKS_1_1_108: -248113472
+      INGAME_BLOCKS_1_1_240: -1640158849
+      INGAME_BLOCKS_1_1_134: -161982718
+      INGAME_BLOCKS_1_1_199: -1354806806
+      INGAME_BLOCKS_1_1_244: 1700049326
+      INGAME_BLOCKS_1_1_156: -1797322617
+      INGAME_BLOCKS_1_1_83: -174225016
+      INGAME_BLOCKS_1_1_157: 34944500
+      INGAME_BLOCKS_1_1_184: -134410900
+      INGAME_BLOCKS_1_1_130: -315548378
+      INGAME_BLOCKS_1_1_11: 2079079140
+      INGAME_BLOCKS_1_1_160: -1593455373
+      INGAME_BLOCKS_1_1_159: 539503442
+      INGAME_BLOCKS_1_1_45: 1971317875
+      INGAME_BLOCKS_1_1_196: 684272892
+      INGAME_BLOCKS_1_1_100: -1687488300
+      INGAME_BLOCKS_1_1_211: 1267490859
+      INGAME_BLOCKS_1_1_137: 556093169
+      INGAME_BLOCKS_1_1_71: 341845615
+      INGAME_BLOCKS_1_1_224: 1222809559
+      INGAME_BLOCKS_1_1_238: -1338395560
+      INGAME_BLOCKS_1_1_212: 2097762146
+      INGAME_BLOCKS_1_1_187: 1732355459
+      INGAME_BLOCKS_1_1_230: 887102933
+      INGAME_BLOCKS_1_1_170: 1233796320
+      INGAME_BLOCKS_1_1_115: -1925254766
+      INGAME_BLOCKS_1_1_87: 1562406675
+      INGAME_BLOCKS_1_1_246: -257299736
+      INGAME_BLOCKS_1_1_267: 2011953272
+      INGAME_BLOCKS_1_1_9: 1201158089
+      INGAME_BLOCKS_1_1_103: -890863642
+      INGAME_BLOCKS_1_1_136: 1569152421
+      INGAME_BLOCKS_1_1_33: 68833448
+      INGAME_BLOCKS_1_1_188: 1385860833
+      INGAME_BLOCKS_1_1_254: 61816772
+      INGAME_BLOCKS_1_1_164: 1038655936
+      INGAME_BLOCKS_1_1_77: -2005507934
+      INGAME_BLOCKS_1_1_204: 1981435590
+      INGAME_BLOCKS_1_1_55: -239504768
+      INGAME_BLOCKS_1_1_192: -1166217619
+      INGAME_BLOCKS_1_1_73: 1330586265
+      INGAME_BLOCKS_1_1_91: -1638686907
+      INGAME_BLOCKS_1_1_185: -944670724
+      INGAME_BLOCKS_1_1_226: -1560134433
+      INGAME_BLOCKS_1_1_96: -1129710930
+      INGAME_BLOCKS_1_1_89: -1328158877
+      INGAME_BLOCKS_1_1_219: 2044169702
+      INGAME_BLOCKS_1_1_40: -904432837
+      INGAME_BLOCKS_1_1_138: 581091132
+      INGAME_BLOCKS_1_1_236: 1343702127
+      INGAME_BLOCKS_1_1_146: 1254082908
+      INGAME_BLOCKS_1_1_97: -1456773923
+      INGAME_BLOCKS_1_1_70: 330854095
+      INGAME_BLOCKS_1_1_190: -1833537348
+      INGAME_BLOCKS_1_1_249: 703168164
+      INGAME_BLOCKS_1_1_259: -2103779880
+      INGAME_BLOCKS_1_1_116: 2018668660
+      INGAME_BLOCKS_1_1_265: -431985150
+      INGAME_BLOCKS_1_1_44: -666484402
+      INGAME_BLOCKS_1_1_53: -936807323
+      INGAME_BLOCKS_1_1_163: 1574562150
+      INGAME_BLOCKS_1_1_75: 2128366785
+      INGAME_BLOCKS_1_1_145: -1666530682
+      INGAME_BLOCKS_1_1_92: -896155912
+      INGAME_BLOCKS_1_1_166: -910481288
+      INGAME_BLOCKS_1_1_205: 1838476718
+      INGAME_BLOCKS_1_1_129: -258692595
+      INGAME_BLOCKS_1_1_233: -136936477
+      INGAME_BLOCKS_1_1_258: -176043776
+      INGAME_BLOCKS_1_1_47: 1838579956
+      INGAME_BLOCKS_1_1_1: 659661160
+      INGAME_BLOCKS_1_1_12: 820445348
+      INGAME_BLOCKS_1_1_99: 706225870
+      INGAME_BLOCKS_1_1_3: 861674986
+      INGAME_BLOCKS_1_1_255: 624577969
+      INGAME_BLOCKS_1_1_245: 2074274791
+      INGAME_BLOCKS_1_1_126: 541201834
+      INGAME_BLOCKS_1_1_30: -1222674268
+      INGAME_BLOCKS_1_1_6: -102542070
+      INGAME_BLOCKS_1_1_52: -1128661724
+      INGAME_BLOCKS_1_1_22: -1952919496
+      INGAME_BLOCKS_1_1_194: 1465372138
+      INGAME_BLOCKS_1_1_177: 632065102
+      INGAME_BLOCKS_1_1_215: -2116706761
+      INGAME_BLOCKS_1_1_218: -389301377
+      INGAME_BLOCKS_1_1_50: -738409580
+      INGAME_BLOCKS_1_1_37: 485059887
+      INGAME_BLOCKS_1_1_80: 919183180
+      INGAME_BLOCKS_1_1_198: -447972701
+      INGAME_BLOCKS_1_1_62: 355046937
+      INGAME_BLOCKS_1_1_148: -683877620
+      INGAME_BLOCKS_1_1_174: -100364394
+      INGAME_BLOCKS_1_1_243: 1573355644
+      INGAME_BLOCKS_1_1_43: -1778844996
+      INGAME_BLOCKS_1_1_171: 331350024
+      INGAME_BLOCKS_1_1_72: 1004959249
+      INGAME_BLOCKS_1_1_48: -170384238
+      INGAME_BLOCKS_1_1_29: 1215006060
+      INGAME_BLOCKS_1_1_102: 222496962
+      INGAME_BLOCKS_1_1_153: -1517476348
+      INGAME_BLOCKS_1_1_35: -1998896622
+      INGAME_BLOCKS_1_1_20: 1541927902
+      INGAME_BLOCKS_1_1_4: 1222359305
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

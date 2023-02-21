@@ -1,0 +1,1091 @@
+fileFormatVersion: 2
+guid: 70eaf35eae340d241a9393bc3200a390
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 99
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1598a7fd7de6a0347b27ed96fe191738
+      internalID: -1020960610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 379
+        width: 160
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8747868a9d10f5946b33755680ab0a06
+      internalID: -1567517641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 412
+        width: 144
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afeeb00eeb869d4983b2794ed07bb99
+      internalID: -1376147017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 413
+        width: 129
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3e4e66d63ab3e43bf0b08aab98d1d6
+      internalID: -1086745080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_4
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 432
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35580881181f4e547adbe2e8168b5d27
+      internalID: 1246246052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe63e1877006db54b8bb90a16772b0af
+      internalID: -1252053595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 270
+        width: 157
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2f17111a2a14d40acf5a6a5e4e180b
+      internalID: 1282837415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 329
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcc3e15d79172e4fbe306c30e557090
+      internalID: -141654362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 329
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cd31ae044aa9c4ea34bb33cfcd9a0b
+      internalID: 27730212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 328
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f46d64b78e689940b4f665c9858a1dd
+      internalID: 122658638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_10
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 329
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfd6cd717495f54b94cf125037cb109
+      internalID: 1207721795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_11
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 338
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3014ce4f00f29f3429cd0a26a192cccf
+      internalID: 1035497423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 272
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30278c123136484449d583b1122464e2
+      internalID: 187362257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 235
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caa523bb1e25984d818561b6f50f24d
+      internalID: 1238594714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_14
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 235
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4ad3959e4036c4e84117db1c3106a9
+      internalID: -592192127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 232
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6fc3988edb0c744a79b718e778bdb1
+      internalID: -1703231092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_16
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 233
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f6ab5f6b4e2b443a7668bd3bdc2444
+      internalID: 897434830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_17
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 257
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abaebf1801639747bda288baddf0e10
+      internalID: 1095158828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce77acd7a9a3cd144b20a60bb25d9039
+      internalID: 848426489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 150
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e323e945084cd449dee5f26f052857
+      internalID: 321795763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 209
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aeb7cd81e33c347ad1393793b3f93a
+      internalID: 749096501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 167
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882726351c15b2644a71ce2103587f91
+      internalID: 1283226573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 142
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c76e4d46348ba47b51e0981106cdc1
+      internalID: 577533868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_23
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 150
+        width: 77
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075acd6c299b3cc4d9496f202844ef51
+      internalID: 987557881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_24
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 162
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d83b510f78cea40a9ab33b2f86b773
+      internalID: 1634700728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_25
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 162
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64c31e97f6d66343944192540202314
+      internalID: -411542168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_26
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 169
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee671a8a19e64e43b3aa8c19da43322
+      internalID: 736230111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 85
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd6bed084fea584aba9ed2374288030
+      internalID: -54234818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 5
+        width: 145
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d8c2abfff71c044a6bb8691f5f11f4
+      internalID: 293820830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 55
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d735010782e6644baf0313c7e74ea5c
+      internalID: 1740586289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_30
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 68
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190ea1033334361429db93180ef64704
+      internalID: 816497236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_31
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 102
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6ca2846f6a8914081b2ee4a8c71692
+      internalID: -1417361788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_32
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 104
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d87da5128fd2b94c8d86f2b77799068
+      internalID: -1694598930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_33
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 109
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab90b891a355d9c40982d64557c0f48d
+      internalID: 902020525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fb85062764f7447bafcd34d9a4fa0c
+      internalID: 1747177029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 6
+        width: 32
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b0a1dddaad77544bec497b4efe4533
+      internalID: 1788931457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_36
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 4
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bf2f93474546d4883fd637ea02e7fb
+      internalID: -119546052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_37
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 42
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fe778d7b3c4704ba010966b0c9d12c
+      internalID: -37312749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_38
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 47
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e8ce32b2165684bb5835ac340d1f78
+      internalID: 246202566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_39
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 59
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee28135e5a787194d9c436273ccb3ee4
+      internalID: -1563143103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_40
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 5
+        width: 75
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dee457987d0654b83b3c846c4ecce8
+      internalID: 1675306872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_41
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69908f8491f4f93488ac23bdf3aa1a2a
+      internalID: 386444808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_42
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 13
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdf99f0d25a9ed4cae25b4d33b62c4f
+      internalID: -438521657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_INGAME_1_29_43
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 8
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b545a84b0a10917449d174a295602362
+      internalID: 655222178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HUD_INGAME_1_29_0: -1020960610
+      HUD_INGAME_1_29_4: 1246246052
+      HUD_INGAME_1_29_34: 1747177029
+      HUD_INGAME_1_29_15: -1703231092
+      HUD_INGAME_1_29_26: 736230111
+      HUD_INGAME_1_29_7: -141654362
+      HUD_INGAME_1_29_12: 187362257
+      HUD_INGAME_1_29_1: -1567517641
+      HUD_INGAME_1_29_40: 1675306872
+      HUD_INGAME_1_29_10: 1207721795
+      HUD_INGAME_1_29_42: -438521657
+      HUD_INGAME_1_29_18: 848426489
+      HUD_INGAME_1_29_23: 987557881
+      HUD_INGAME_1_29_19: 321795763
+      HUD_INGAME_1_29_30: 816497236
+      HUD_INGAME_1_29_24: 1634700728
+      HUD_INGAME_1_29_35: 1788931457
+      HUD_INGAME_1_29_14: -592192127
+      HUD_INGAME_1_29_39: -1563143103
+      HUD_INGAME_1_29_6: 1282837415
+      HUD_INGAME_1_29_11: 1035497423
+      HUD_INGAME_1_29_28: 293820830
+      HUD_INGAME_1_29_25: -411542168
+      HUD_INGAME_1_29_27: -54234818
+      HUD_INGAME_1_29_13: 1238594714
+      HUD_INGAME_1_29_21: 1283226573
+      HUD_INGAME_1_29_43: 655222178
+      HUD_INGAME_1_29_38: 246202566
+      HUD_INGAME_1_29_31: -1417361788
+      HUD_INGAME_1_29_32: -1694598930
+      HUD_INGAME_1_29_16: 897434830
+      HUD_INGAME_1_29_8: 27730212
+      HUD_INGAME_1_29_33: 902020525
+      HUD_INGAME_1_29_36: -119546052
+      HUD_INGAME_1_29_29: 1740586289
+      HUD_INGAME_1_29_22: 577533868
+      HUD_INGAME_1_29_3: -1086745080
+      HUD_INGAME_1_29_17: 1095158828
+      HUD_INGAME_1_29_37: -37312749
+      HUD_INGAME_1_29_5: -1252053595
+      HUD_INGAME_1_29_2: -1376147017
+      HUD_INGAME_1_29_41: 386444808
+      HUD_INGAME_1_29_9: 122658638
+      HUD_INGAME_1_29_20: 749096501
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
